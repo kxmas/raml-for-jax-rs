@@ -20,7 +20,7 @@ apply plugin: 'maven'
 apply plugin: 'signing'
 
 group = 'org.raml'
-version = '1.3.5-SNAPSHOT'
+version = '1.3.5kac-SNAPSHOT'
 description '''RAML JAX-RS Gradle Plug-in'''
 
 sourceCompatibility = '1.6'
